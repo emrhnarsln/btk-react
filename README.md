@@ -26,17 +26,17 @@ Projeyi lokalinizde çalıştırmak için:
 
 Repoyu klonlayın
 
-bashCopygit clone [repository-url]
+git clone [repository-url]
 
 Pizza Hot uygulaması için:
 
-bashCopycd pizza-hot
+cd pizza-hot
 npm install
 npm run dev
 
 API servisi için (yeni bir terminal açın):
 
-bashCopycd pizza-api
+cd pizza-api
 npm install
 npm run start
 Öğrenme Kazanımları 📚
